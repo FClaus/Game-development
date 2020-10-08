@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{88A901EA-7346-406B-B372-50FCD7125C09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tutorial_Walking/Characters/CharacterEntity.cs">
+    <Files>
+      <File FileName="Tutorial_Walking/Game1.cs" Line="59" Column="1" />
+      <File FileName="Tutorial_Walking/Characters/CharacterEntity.cs" Line="229" Column="33" />
+      <File FileName="Tutorial_Walking/Tiles/RectangleHelper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tutorial_Walking" expanded="True">
+            <Node name="Tutorial_Walking" expanded="True">
+              <Node name="Characters" expanded="True">
+                <Node name="CharacterEntity.cs" selected="True" />
+              </Node>
+              <Node name="Tiles" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tutorial__Walking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,56 @@
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/charactersheet.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Tutorial_Walking.deps.json
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Tutorial_Walking.runtimeconfig.json
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Tutorial_Walking.runtimeconfig.dev.json
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Tutorial_Walking.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Tutorial_Walking.pdb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.csprojAssemblyReference.cache
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.AssemblyInfoInputs.cache
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.AssemblyInfo.cs
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.csproj.CoreCompileInputs.cache
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.csproj.CopyComplete
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.dll
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.pdb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/obj/Debug/netcoreapp3.1/Tutorial_Walking.genruntimeconfig.cache
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/adventurer-v1.5-Sheet.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/BG/BG.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Bush (1).xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Bush (2).xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Bush (3).xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Bush (4).xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Crate.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Mushroom_1.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Mushroom_2.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Sign_1.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Sign_2.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Stone.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Tree_1.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Tree_2.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Object/Tree_3.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/1.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/10.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/11.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/12.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/13.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/14.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/15.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/16.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/17.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/18.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/2.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/3.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/4.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/5.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/6.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/7.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/8.xnb
+/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/bin/Debug/netcoreapp3.1/Content/Tiles/9.xnb

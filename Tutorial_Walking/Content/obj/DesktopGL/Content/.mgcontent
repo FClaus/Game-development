@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/BG/BG.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Bush (1).png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Bush (2).png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Bush (3).png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Bush (4).png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Crate.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Mushroom_1.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Mushroom_2.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Sign_1.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Sign_2.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Stone.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Tree_1.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Tree_2.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Object/Tree_3.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/1.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/10.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/11.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/12.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/13.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/14.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/15.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/16.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/17.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/18.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/2.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/3.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/4.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/5.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/6.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/7.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/8.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/../../../../Downloads/freetileset/png/Tiles/9.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/adventurer-v1.5-Sheet.png</File>
+    <File>/Users/fredericclaus/Projects/Tutorial_Walking/Tutorial_Walking/Content/charactersheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>BG/BG.png</File>
+    <File>Object/Bush (1).png</File>
+    <File>Object/Bush (2).png</File>
+    <File>Object/Bush (3).png</File>
+    <File>Object/Bush (4).png</File>
+    <File>Object/Crate.png</File>
+    <File>Object/Mushroom_1.png</File>
+    <File>Object/Mushroom_2.png</File>
+    <File>Object/Sign_1.png</File>
+    <File>Object/Sign_2.png</File>
+    <File>Object/Stone.png</File>
+    <File>Object/Tree_1.png</File>
+    <File>Object/Tree_2.png</File>
+    <File>Object/Tree_3.png</File>
+    <File>Tiles/1.png</File>
+    <File>Tiles/10.png</File>
+    <File>Tiles/11.png</File>
+    <File>Tiles/12.png</File>
+    <File>Tiles/13.png</File>
+    <File>Tiles/14.png</File>
+    <File>Tiles/15.png</File>
+    <File>Tiles/16.png</File>
+    <File>Tiles/17.png</File>
+    <File>Tiles/18.png</File>
+    <File>Tiles/2.png</File>
+    <File>Tiles/3.png</File>
+    <File>Tiles/4.png</File>
+    <File>Tiles/5.png</File>
+    <File>Tiles/6.png</File>
+    <File>Tiles/7.png</File>
+    <File>Tiles/8.png</File>
+    <File>Tiles/9.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
